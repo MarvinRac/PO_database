@@ -10,6 +10,6 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Products"
+    "products": "Products"
   }
 }
