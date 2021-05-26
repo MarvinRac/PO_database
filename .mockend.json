@@ -1,6 +1,6 @@
 {
   "Products": {
-    "title": "string",
+    "id": "int",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
