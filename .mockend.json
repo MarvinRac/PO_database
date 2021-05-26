@@ -1,19 +1,6 @@
-[
 {
-    "type": "header",
-    "version": "5.1.0",
-    "comment": "Export to JSON plugin for PHPMyAdmin"
-},
-{
-    "type": "database",
-    "name": "products_db"
-},
-{
-    "type": "table",
-    "name": "products",
-    "database": "products_db",
-    "data": 
-[
+    "data": {
+        "products": [
 {
     "id": "1",
     "product_name": "gooseberry",
@@ -1097,4 +1084,4 @@
 ]
 
 }
-]
+}
