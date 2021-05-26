@@ -1,0 +1,1100 @@
+[
+{
+    "type": "header",
+    "version": "5.1.0",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "products_db"
+},
+{
+    "type": "table",
+    "name": "products",
+    "database": "products_db",
+    "data": 
+[
+{
+    "id": "1",
+    "product_name": "gooseberry",
+    "calories": "41",
+    "proteins": "0.8",
+    "fats": "0.2",
+    "carbs": "11.8",
+    "amount": "100"
+},
+{
+    "id": "2",
+    "product_name": "pineaple",
+    "calories": "400",
+    "proteins": "0.4",
+    "fats": "0.2",
+    "carbs": "13.6",
+    "amount": "100"
+},
+{
+    "id": "3",
+    "product_name": "anise",
+    "calories": "337",
+    "proteins": "17.6",
+    "fats": "16",
+    "carbs": "50",
+    "amount": "100"
+},
+{
+    "id": "4",
+    "product_name": "watermelon",
+    "calories": "36",
+    "proteins": "0.6",
+    "fats": "0.1",
+    "carbs": "8.4",
+    "amount": "100"
+},
+{
+    "id": "5",
+    "product_name": "avocado",
+    "calories": "160",
+    "proteins": "2",
+    "fats": "15.3",
+    "carbs": "7.4",
+    "amount": "100"
+},
+{
+    "id": "6",
+    "product_name": "eggplant",
+    "calories": "21",
+    "proteins": "1.1",
+    "fats": "0.1",
+    "carbs": "6.3",
+    "amount": "100"
+},
+{
+    "id": "7",
+    "product_name": "gammon",
+    "calories": "244",
+    "proteins": "15.1",
+    "fats": "20.2",
+    "carbs": "0.9",
+    "amount": "100"
+},
+{
+    "id": "8",
+    "product_name": "banana",
+    "calories": "95",
+    "proteins": "1",
+    "fats": "0.3",
+    "carbs": "23.5",
+    "amount": "100"
+},
+{
+    "id": "9",
+    "product_name": "radish",
+    "calories": "14",
+    "proteins": "1",
+    "fats": "0",
+    "carbs": "3",
+    "amount": "100"
+},
+{
+    "id": "10",
+    "product_name": "egg white",
+    "calories": "49",
+    "proteins": "10.9",
+    "fats": "0.2",
+    "carbs": "0.7",
+    "amount": "100"
+},
+{
+    "id": "11",
+    "product_name": "broad bean",
+    "calories": "66",
+    "proteins": "7.1",
+    "fats": "0.4",
+    "carbs": "14",
+    "amount": "100"
+},
+{
+    "id": "12",
+    "product_name": "bacon",
+    "calories": "477",
+    "proteins": "13",
+    "fats": "47",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "13",
+    "product_name": "broccoli",
+    "calories": "27",
+    "proteins": "3",
+    "fats": "0.4",
+    "carbs": "5.2",
+    "amount": "100"
+},
+{
+    "id": "14",
+    "product_name": "brussels sprouts",
+    "calories": "37",
+    "proteins": "4.7",
+    "fats": "0.5",
+    "carbs": "8.7",
+    "amount": "100"
+},
+{
+    "id": "15",
+    "product_name": "peach",
+    "calories": "46",
+    "proteins": "1",
+    "fats": "0.2",
+    "carbs": "11.9",
+    "amount": "100"
+},
+{
+    "id": "16",
+    "product_name": "oat roll",
+    "calories": "304",
+    "proteins": "9.3",
+    "fats": "4.5",
+    "carbs": "58.4",
+    "amount": "100"
+},
+{
+    "id": "17",
+    "product_name": "wheat roll",
+    "calories": "273",
+    "proteins": "8.1",
+    "fats": "1.5",
+    "carbs": "57.7",
+    "amount": "100"
+},
+{
+    "id": "18",
+    "product_name": "soybean roll",
+    "calories": "315",
+    "proteins": "10.1",
+    "fats": "4",
+    "carbs": "61.1",
+    "amount": "100"
+},
+{
+    "id": "19",
+    "product_name": "bread crumbs",
+    "calories": "347",
+    "proteins": "9.7",
+    "fats": "1.9",
+    "carbs": "77.6",
+    "amount": "100"
+},
+{
+    "id": "20",
+    "product_name": "breetroot",
+    "calories": "38",
+    "proteins": "1.8",
+    "fats": "0.1",
+    "carbs": "9.5",
+    "amount": "100"
+},
+{
+    "id": "21",
+    "product_name": "onion",
+    "calories": "30",
+    "proteins": "1.4",
+    "fats": "0.4",
+    "carbs": "6.9",
+    "amount": "100"
+},
+{
+    "id": "22",
+    "product_name": "red onion",
+    "calories": "30",
+    "proteins": "1.4",
+    "fats": "0.4",
+    "carbs": "6.9",
+    "amount": "100"
+},
+{
+    "id": "23",
+    "product_name": "chili",
+    "calories": "40",
+    "proteins": "0.4",
+    "fats": "0.1",
+    "carbs": "1.8",
+    "amount": "100"
+},
+{
+    "id": "24",
+    "product_name": "wheat bread",
+    "calories": "257",
+    "proteins": "8.5",
+    "fats": "1.4",
+    "carbs": "54.3",
+    "amount": "100"
+},
+{
+    "id": "25",
+    "product_name": " rye bread",
+    "calories": "225",
+    "proteins": "6.8",
+    "fats": "1.8",
+    "carbs": "53.8",
+    "amount": "100"
+},
+{
+    "id": "26",
+    "product_name": "horseradish",
+    "calories": "67",
+    "proteins": "4.5",
+    "fats": "0.6",
+    "carbs": "18.1",
+    "amount": "100"
+},
+{
+    "id": "27",
+    "product_name": "chickpeas",
+    "calories": "127",
+    "proteins": "6",
+    "fats": "3",
+    "carbs": "18",
+    "amount": "100"
+},
+{
+    "id": "28",
+    "product_name": "veal shoulder",
+    "calories": "106",
+    "proteins": "19.9",
+    "fats": "2.8",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "29",
+    "product_name": "veal ham",
+    "calories": "105",
+    "proteins": "20.5",
+    "fats": "2.4",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "30",
+    "product_name": "veal leg",
+    "calories": "108",
+    "proteins": "19.9",
+    "fats": "3.1",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "31",
+    "product_name": "sugar",
+    "calories": "405",
+    "proteins": "0",
+    "fats": "0",
+    "carbs": "99.8",
+    "amount": "100"
+},
+{
+    "id": "32",
+    "product_name": "brown sugar",
+    "calories": "380",
+    "proteins": "0.12",
+    "fats": "0",
+    "carbs": "98",
+    "amount": "100"
+},
+{
+    "id": "33",
+    "product_name": "powdered sugar",
+    "calories": "387",
+    "proteins": "0",
+    "fats": "0",
+    "carbs": "100",
+    "amount": "100"
+},
+{
+    "id": "34",
+    "product_name": "courgette",
+    "calories": "15",
+    "proteins": "1.2",
+    "fats": "0.1",
+    "carbs": "3.2",
+    "amount": "100"
+},
+{
+    "id": "35",
+    "product_name": "curry",
+    "calories": "325",
+    "proteins": "13",
+    "fats": "14",
+    "carbs": "58",
+    "amount": "100"
+},
+{
+    "id": "36",
+    "product_name": "chicory",
+    "calories": "21",
+    "proteins": "1.7",
+    "fats": "0.2",
+    "carbs": "4.1",
+    "amount": "100"
+},
+{
+    "id": "37",
+    "product_name": "cynamon",
+    "calories": "247",
+    "proteins": "4",
+    "fats": "1.2",
+    "carbs": "81",
+    "amount": "100"
+},
+{
+    "id": "38",
+    "product_name": "lemon",
+    "calories": "36",
+    "proteins": "0.8",
+    "fats": "0.3",
+    "carbs": "9.5",
+    "amount": "100"
+},
+{
+    "id": "39",
+    "product_name": "bitter chocolate",
+    "calories": "544",
+    "proteins": "6.7",
+    "fats": "34.3",
+    "carbs": "56.6",
+    "amount": "100"
+},
+{
+    "id": "40",
+    "product_name": "cherries",
+    "calories": "61",
+    "proteins": "1",
+    "fats": "0.3",
+    "carbs": "14.6",
+    "amount": "100"
+},
+{
+    "id": "41",
+    "product_name": "red bean",
+    "calories": "87",
+    "proteins": "8.1",
+    "fats": "0.6",
+    "carbs": "12.3",
+    "amount": "100"
+},
+{
+    "id": "42",
+    "product_name": "garlic",
+    "calories": "146",
+    "proteins": "6.4",
+    "fats": "0.5",
+    "carbs": "32.6",
+    "amount": "100"
+},
+{
+    "id": "43",
+    "product_name": "cod fillet",
+    "calories": "70",
+    "proteins": "16.5",
+    "fats": "0.3",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "44",
+    "product_name": "pumpkin",
+    "calories": "28",
+    "proteins": "1.3",
+    "fats": "0.3",
+    "carbs": "7.7",
+    "amount": "100"
+},
+{
+    "id": "45",
+    "product_name": "blueberry jam",
+    "calories": "153",
+    "proteins": "0.3",
+    "fats": "0.2",
+    "carbs": "38.2",
+    "amount": "100"
+},
+{
+    "id": "46",
+    "product_name": "plum jam",
+    "calories": "153",
+    "proteins": "0.3",
+    "fats": "0.1",
+    "carbs": "37.9",
+    "amount": "100"
+},
+{
+    "id": "47",
+    "product_name": "strawberry jam",
+    "calories": "153",
+    "proteins": "0.3",
+    "fats": "0.2",
+    "carbs": "37.8",
+    "amount": "100"
+},
+{
+    "id": "48",
+    "product_name": "cherry jam",
+    "calories": "154",
+    "proteins": "0.4",
+    "fats": "0.2",
+    "carbs": "37.5",
+    "amount": "100"
+},
+{
+    "id": "49",
+    "product_name": "white beans",
+    "calories": "288",
+    "proteins": "21.4",
+    "fats": "1.6",
+    "carbs": "61.6",
+    "amount": "100"
+},
+{
+    "id": "50",
+    "product_name": "string-beans",
+    "calories": "27",
+    "proteins": "2.4",
+    "fats": "0.2",
+    "carbs": "7.6",
+    "amount": "100"
+},
+{
+    "id": "51",
+    "product_name": "figs",
+    "calories": "290",
+    "proteins": "3.6",
+    "fats": "1.2",
+    "carbs": "78",
+    "amount": "100"
+},
+{
+    "id": "52",
+    "product_name": "mackerel fillet",
+    "calories": "150",
+    "proteins": "13.1",
+    "fats": "9",
+    "carbs": "4",
+    "amount": "100"
+},
+{
+    "id": "53",
+    "product_name": "flounder",
+    "calories": "83",
+    "proteins": "15.5",
+    "fats": "1.8",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "54",
+    "product_name": "graham",
+    "calories": "252",
+    "proteins": "9",
+    "fats": "1.7",
+    "carbs": "56.1",
+    "amount": "100"
+},
+{
+    "id": "55",
+    "product_name": "grenade",
+    "calories": "83",
+    "proteins": "1.7",
+    "fats": "1.2",
+    "carbs": "18.7",
+    "amount": "100"
+},
+{
+    "id": "56",
+    "product_name": "grapefruit",
+    "calories": "36",
+    "proteins": "0.6",
+    "fats": "0.2",
+    "carbs": "9.8",
+    "amount": "100"
+},
+{
+    "id": "57",
+    "product_name": "red grapefruit",
+    "calories": "42",
+    "proteins": "0.8",
+    "fats": "0.1",
+    "carbs": "10.7",
+    "amount": "100"
+},
+{
+    "id": "58",
+    "product_name": "green peas",
+    "calories": "75",
+    "proteins": "6.7",
+    "fats": "0.4",
+    "carbs": "17",
+    "amount": "100"
+},
+{
+    "id": "59",
+    "product_name": "pear",
+    "calories": "54",
+    "proteins": "0.6",
+    "fats": "0.2",
+    "carbs": "14.4",
+    "amount": "100"
+},
+{
+    "id": "60",
+    "product_name": "mushrooms",
+    "calories": "284",
+    "proteins": "9.3",
+    "fats": "0.7",
+    "carbs": "73",
+    "amount": "100"
+},
+{
+    "id": "61",
+    "product_name": "halibut",
+    "calories": "98",
+    "proteins": "20.1",
+    "fats": "1.9",
+    "carbs": "6",
+    "amount": "71"
+},
+{
+    "id": "62",
+    "product_name": "ginger",
+    "calories": "347",
+    "proteins": "9.1",
+    "fats": "6",
+    "carbs": "71",
+    "amount": "100"
+},
+{
+    "id": "63",
+    "product_name": "apple",
+    "calories": "46",
+    "proteins": "0.4",
+    "fats": "0.4",
+    "carbs": "12.1",
+    "amount": "100"
+},
+{
+    "id": "64",
+    "product_name": "berries",
+    "calories": "45",
+    "proteins": "0.8",
+    "fats": "0.6",
+    "carbs": "12.2",
+    "amount": "100"
+},
+{
+    "id": "65",
+    "product_name": "chicken egg",
+    "calories": "139",
+    "proteins": "12.5",
+    "fats": "9.7",
+    "carbs": "0.6",
+    "amount": "100"
+},
+{
+    "id": "66",
+    "product_name": "quail egg",
+    "calories": "158",
+    "proteins": "13",
+    "fats": "11",
+    "carbs": "0.4",
+    "amount": "100"
+},
+{
+    "id": "67",
+    "product_name": "natural yoghurt",
+    "calories": "60",
+    "proteins": "4.3",
+    "fats": "2",
+    "carbs": "6.2",
+    "amount": "100"
+},
+{
+    "id": "68",
+    "product_name": "kabanos",
+    "calories": "326",
+    "proteins": "27.4",
+    "fats": "24.3",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "69",
+    "product_name": "kaiser",
+    "calories": "296",
+    "proteins": "8.4",
+    "fats": "3.6",
+    "carbs": "58.6",
+    "amount": "100"
+},
+{
+    "id": "70",
+    "product_name": "cocoa",
+    "calories": "448",
+    "proteins": "18.2",
+    "fats": "21.7",
+    "carbs": "50.6",
+    "amount": "100"
+},
+{
+    "id": "71",
+    "product_name": "cauliflower",
+    "calories": "22",
+    "proteins": "2.4",
+    "fats": "0.2",
+    "carbs": "5",
+    "amount": "100"
+},
+{
+    "id": "72",
+    "product_name": "white cabbage",
+    "calories": "29",
+    "proteins": "1.7",
+    "fats": "0.2",
+    "carbs": "7.4",
+    "amount": "100"
+},
+{
+    "id": "73",
+    "product_name": "red cabbage",
+    "calories": "27",
+    "proteins": "1.9",
+    "fats": "0.2",
+    "carbs": "6.7",
+    "amount": "100"
+},
+{
+    "id": "74",
+    "product_name": "chinese cabbage",
+    "calories": "12",
+    "proteins": "1.2",
+    "fats": "0.2",
+    "carbs": "3.2",
+    "amount": "100"
+},
+{
+    "id": "75",
+    "product_name": "kale",
+    "calories": "38",
+    "proteins": "3.3",
+    "fats": "0.4",
+    "carbs": "7.8",
+    "amount": "100"
+},
+{
+    "id": "76",
+    "product_name": "carp",
+    "calories": "110",
+    "proteins": "18.4",
+    "fats": "4.2",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "77",
+    "product_name": "buckwheat",
+    "calories": "336",
+    "proteins": "12",
+    "fats": "3",
+    "carbs": "69.3",
+    "amount": "100"
+},
+{
+    "id": "78",
+    "product_name": "millet",
+    "calories": "334",
+    "proteins": "8.4",
+    "fats": "2",
+    "carbs": "74.9",
+    "amount": "100"
+},
+{
+    "id": "79",
+    "product_name": "barley",
+    "calories": "334",
+    "proteins": "8.4",
+    "fats": "2",
+    "carbs": "74.9",
+    "amount": "100"
+},
+{
+    "id": "80",
+    "product_name": "corn grits",
+    "calories": "337",
+    "proteins": "8",
+    "fats": "1.7",
+    "carbs": "72",
+    "amount": "100"
+},
+{
+    "id": "81",
+    "product_name": "ketchup",
+    "calories": "93",
+    "proteins": "1.8",
+    "fats": "1",
+    "carbs": "22.2",
+    "amount": "100"
+},
+{
+    "id": "82",
+    "product_name": "kefir",
+    "calories": "51",
+    "proteins": "3.4",
+    "fats": "2",
+    "carbs": "4.7",
+    "amount": "100"
+},
+{
+    "id": "83",
+    "product_name": "chicken sausage",
+    "calories": "109",
+    "proteins": "19.6",
+    "fats": "3.3",
+    "carbs": "0.1",
+    "amount": "100"
+},
+{
+    "id": "84",
+    "product_name": "silesian sausage",
+    "calories": "210",
+    "proteins": "18.4",
+    "fats": "15.3",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "85",
+    "product_name": "kiwi",
+    "calories": "56",
+    "proteins": "0.9",
+    "fats": "0.5",
+    "carbs": "13.9",
+    "amount": "100"
+},
+{
+    "id": "86",
+    "product_name": "lime",
+    "calories": "30",
+    "proteins": "0.7",
+    "fats": "0.2",
+    "carbs": "10.5",
+    "amount": "100"
+},
+{
+    "id": "87",
+    "product_name": "mint",
+    "calories": "77",
+    "proteins": "3.8",
+    "fats": "0.94",
+    "carbs": "15",
+    "amount": "100"
+},
+{
+    "id": "88",
+    "product_name": "salmon",
+    "calories": "201",
+    "proteins": "19.9",
+    "fats": "13.6",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "89",
+    "product_name": "mayonnaise",
+    "calories": "714",
+    "proteins": "1.3",
+    "fats": "79",
+    "carbs": "2.6",
+    "amount": "100"
+},
+{
+    "id": "90",
+    "product_name": "corn flour",
+    "calories": "337",
+    "proteins": "5.9",
+    "fats": "3",
+    "carbs": "78",
+    "amount": "100"
+},
+{
+    "id": "91",
+    "product_name": "wheat flour",
+    "calories": "309",
+    "proteins": "11.9",
+    "fats": "2.3",
+    "carbs": "70",
+    "amount": "100"
+},
+{
+    "id": "92",
+    "product_name": "pasta",
+    "calories": "391",
+    "proteins": "13.2",
+    "fats": "3.4",
+    "carbs": "78.3",
+    "amount": "100"
+},
+{
+    "id": "93",
+    "product_name": "rye flour",
+    "calories": "310",
+    "proteins": "7.1",
+    "fats": "2.2",
+    "carbs": "75.3",
+    "amount": "100"
+},
+{
+    "id": "94",
+    "product_name": "mackerel",
+    "calories": "181",
+    "proteins": "18.7",
+    "fats": "11.9",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "95",
+    "product_name": "raspberries",
+    "calories": "29",
+    "proteins": "1.3",
+    "fats": "0.3",
+    "carbs": "12",
+    "amount": "100"
+},
+{
+    "id": "96",
+    "product_name": "mandarins",
+    "calories": "42",
+    "proteins": "0.6",
+    "fats": "0.2",
+    "carbs": "11.2",
+    "amount": "100"
+},
+{
+    "id": "97",
+    "product_name": "mango",
+    "calories": "67",
+    "proteins": "0.5",
+    "fats": "0.3",
+    "carbs": "17",
+    "amount": "100"
+},
+{
+    "id": "98",
+    "product_name": "carrot",
+    "calories": "27",
+    "proteins": "1",
+    "fats": "0.2",
+    "carbs": "8.7",
+    "amount": "100"
+},
+{
+    "id": "99",
+    "product_name": "butter",
+    "calories": "735",
+    "proteins": "0.7",
+    "fats": "82.5",
+    "carbs": "0.7",
+    "amount": "100"
+},
+{
+    "id": "100",
+    "product_name": "honey",
+    "calories": "324",
+    "proteins": "0.3",
+    "fats": "0",
+    "carbs": "79.5",
+    "amount": "100"
+},
+{
+    "id": "101",
+    "product_name": "soy milk",
+    "calories": "41",
+    "proteins": "6",
+    "fats": "1.4",
+    "carbs": "4.3",
+    "amount": "100"
+},
+{
+    "id": "102",
+    "product_name": "milk",
+    "calories": "51",
+    "proteins": "3.4",
+    "fats": "2",
+    "carbs": "4.9",
+    "amount": "100"
+},
+{
+    "id": "103",
+    "product_name": "mustard",
+    "calories": "162",
+    "proteins": "5.7",
+    "fats": "6.4",
+    "carbs": "22",
+    "amount": "100"
+},
+{
+    "id": "104",
+    "product_name": "cucumber",
+    "calories": "13",
+    "proteins": "0.7",
+    "fats": "0.1",
+    "carbs": "4.9",
+    "amount": "100"
+},
+{
+    "id": "105",
+    "product_name": "rapeseed oil",
+    "calories": "884",
+    "proteins": "0",
+    "fats": "100",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "106",
+    "product_name": "olive oil",
+    "calories": "882",
+    "proteins": "0",
+    "fats": "99.6",
+    "carbs": "0.2",
+    "amount": "100"
+},
+{
+    "id": "107",
+    "product_name": "olives",
+    "calories": "125",
+    "proteins": "1.4",
+    "fats": "12.7",
+    "carbs": "4.1",
+    "amount": "100"
+},
+{
+    "id": "108",
+    "product_name": "pepper",
+    "calories": "28",
+    "proteins": "1.3",
+    "fats": "0.5",
+    "carbs": "6.6",
+    "amount": "100"
+},
+{
+    "id": "109",
+    "product_name": "chicken breast",
+    "calories": "99",
+    "proteins": "21.5",
+    "fats": "1.3",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "110",
+    "product_name": "turkey breast",
+    "calories": "100",
+    "proteins": "18.7",
+    "fats": "2.7",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "111",
+    "product_name": "cornflakes",
+    "calories": "363",
+    "proteins": "6.9",
+    "fats": "2.5",
+    "carbs": "83.6",
+    "amount": "100"
+},
+{
+    "id": "112",
+    "product_name": "orange",
+    "calories": "44",
+    "proteins": "0.9",
+    "fats": "0.2",
+    "carbs": "11.3",
+    "amount": "100"
+},
+{
+    "id": "113",
+    "product_name": "tomato",
+    "calories": "15",
+    "proteins": "0.9",
+    "fats": "0.2",
+    "carbs": "11.3",
+    "amount": "100"
+},
+{
+    "id": "114",
+    "product_name": "trout",
+    "calories": "160",
+    "proteins": "18.6",
+    "fats": "9.6",
+    "carbs": "0",
+    "amount": "100"
+},
+{
+    "id": "115",
+    "product_name": "rice",
+    "calories": "344",
+    "proteins": "6.7",
+    "fats": "0.7",
+    "carbs": "78.9",
+    "amount": "100"
+},
+{
+    "id": "116",
+    "product_name": "salami",
+    "calories": "540",
+    "proteins": "21.9",
+    "fats": "50.6",
+    "carbs": "0.9",
+    "amount": "100"
+},
+{
+    "id": "117",
+    "product_name": "lettuce",
+    "calories": "14",
+    "proteins": "1.4",
+    "fats": "0.2",
+    "carbs": "2.9",
+    "amount": "100"
+},
+{
+    "id": "118",
+    "product_name": "cheddar",
+    "calories": "391",
+    "proteins": "27.1",
+    "fats": "31.7",
+    "carbs": "0.1",
+    "amount": "100"
+},
+{
+    "id": "119",
+    "product_name": "mozzarella",
+    "calories": "254",
+    "proteins": "24",
+    "fats": "16",
+    "carbs": "3",
+    "amount": "100"
+},
+{
+    "id": "120",
+    "product_name": "potatoes",
+    "calories": "77",
+    "proteins": "1.9",
+    "fats": "0.1",
+    "carbs": "18.3",
+    "amount": "100"
+}
+]
+
+}
+]
