@@ -1,13 +1,15 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "products": {
+    "id": "int",
+    "product_name": "string",
+    "calories": "double",
+    "proteins": "double",
+    "fats": "double",
+    "carbs": "double",
+    "amount": "double"
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "products"
   }
 }
