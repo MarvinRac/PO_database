@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Products": {
     "id": "int",
     "product_name": "string",
     "calories": "int",
@@ -10,6 +10,6 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "Products"
   }
 }
