@@ -1,10 +1,7 @@
 {
   "Products": {
-    "id": "int",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "title": "string",
+
   },
   "Comment": {
     "body": "string",
